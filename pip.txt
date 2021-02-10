@@ -1,0 +1,11 @@
+If you have installed the latest version of Python, then pip (a tool for installing packages in Python) will already be installed. To check if pip is installed or not, type the following command.
+--->		pip -V
+You should upgrade to the latest package of pip using the following command. If pip is already in its latest version, then ignore this step.
+--->		python -m pip install -U pip		or		python -m pip install –upgrade pip
+After upgrading pip, you can proceed to install PyAutoGUI. In order to install PyAutoGUI, type the following command.
+--->		python -m pip install pyautogui		or		pip install pyautogui
+
+
+
+
+
